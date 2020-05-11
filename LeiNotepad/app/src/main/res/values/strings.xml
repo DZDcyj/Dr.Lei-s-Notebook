@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LeiNotepad</string>
+    <string name="tag1">工作</string>
+    <string name="tag2">学习</string>
+    <string name="tag3">生活</string>
+    <string name="tag4">其他</string>
+    <string name="hint_for_title">为你的笔记取个好听的标题吧！</string>
+    <string name="hint_for_content">在这里键入想要写的内容吧！</string>
+    <string name="save">保存</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="cancel">取消</string>
+    <string name="test_title">这里是测试标题</string>
+    <string name="test_desc">这里是测试用的简短介绍</string>
+    <string name="test_long_desc">人呐就不知道，自己就不能预料。一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程。</string>
+    <string name="checkbox_text">我搞定啦！</string>
+    <string name="delete_info">删除笔记成功</string>
+    <string name="repeal">撤销</string>
+</resources>
